@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.404186
+  lightness: 0.964564
+  rhythmicContrast: 0.763797
+  saturation: 0.684684
+cta: {}
+layout_spectrum: 0.912162
+name: le johann
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.056307
